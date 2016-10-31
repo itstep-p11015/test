@@ -24,7 +24,7 @@
 №2 Samsonov
 >>>>>>> 603617d424b1b524bf59db8c4fb1a2b8ebd96f67
 
-<<<Silitski>>>
+
 =======
 ## number 89 - Samsonov =)
 =======
@@ -47,3 +47,5 @@
 #
 # number 89 - Samsonov =)
 >>>>>>> 9deebe4e0cfe00dceaeebf9073e98d4dfca1b508
+
+<<<Silitski>>>
