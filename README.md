@@ -1,3 +1,3 @@
 # test
-# .:..::№1 LockDownRU::..:.\n
-№2 Samsonov\n
+# .:..::№1 LockDownRU::..:.
+№2 Samsonov
