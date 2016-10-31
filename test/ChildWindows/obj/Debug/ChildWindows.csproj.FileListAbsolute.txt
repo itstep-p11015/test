@@ -9,3 +9,6 @@ u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.exe
 u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.pdb
 u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.ChildForm.resources
 u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.DataSourceForm.resources
+C:\Users\user\test\test\ChildWindows\bin\Debug\ChildWindows.exe.config
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.exe
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.pdb
