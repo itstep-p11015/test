@@ -12,3 +12,11 @@ u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.DataSourceF
 C:\Users\user\test\test\ChildWindows\bin\Debug\ChildWindows.exe.config
 C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.exe
 C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.pdb
+C:\Users\user\test\test\ChildWindows\bin\Debug\ChildWindows.exe
+C:\Users\user\test\test\ChildWindows\bin\Debug\ChildWindows.pdb
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.csprojResolveAssemblyReference.cache
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.ChildForm.resources
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.DataSourceForm.resources
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.ParentForm.resources
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.Properties.Resources.resources
+C:\Users\user\test\test\ChildWindows\obj\Debug\ChildWindows.csproj.GenerateResource.Cache
