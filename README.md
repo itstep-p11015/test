@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #№1 LockDownRU
 
 =======
@@ -11,9 +12,13 @@
 =======
 =======
 # ---------------------------------------
+=======
+# ---------------------------
+>>>>>>> 9deebe4e0cfe00dceaeebf9073e98d4dfca1b508
 ![GitHub Logo](http://www.crowndeliandcatering.com/wp-content/uploads/2014/12/Crown-Icon_transparency_02.png)
 >>>>>>> 34e62734af578af50d78cf830ffd82a12e97baed
 # .:..::№1 LockDownRU::..:.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 №2 Samsonov
@@ -34,3 +39,11 @@
 >>>>>>> 34e62734af578af50d78cf830ffd82a12e97baed
 
 >>>>>>> 8322d4a8f83a7b58430131c388e46fbbff5adaf0
+=======
+# ---------------------------
+#     ^
+#     |
+#    LOHH
+#
+# number 89 - Samsonov =)
+>>>>>>> 9deebe4e0cfe00dceaeebf9073e98d4dfca1b508
