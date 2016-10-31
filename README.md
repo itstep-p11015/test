@@ -5,4 +5,34 @@
 # number 89 - Samsonov =)
 # ---------------------------------------
 
-Silitski
+<<<<<<< HEAD
+
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anna Kudriasheva
+>>>>>>> b17be455eb75246893753d80a6a04bd6fd79dd6d
+
+Ilya Silitski
