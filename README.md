@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # test
-1 LockDownRU
+#№1 LockDownRU
