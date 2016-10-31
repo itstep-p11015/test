@@ -1,0 +1,11 @@
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\bin\Debug\ChildWindows.exe.config
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\bin\Debug\ChildWindows.exe
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\bin\Debug\ChildWindows.pdb
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.csprojResolveAssemblyReference.cache
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.ParentForm.resources
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.Properties.Resources.resources
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.csproj.GenerateResource.Cache
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.exe
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.pdb
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.ChildForm.resources
+u:\BelovMA\WinForms\ChildWindows\ChildWindows\obj\Debug\ChildWindows.DataSourceForm.resources
